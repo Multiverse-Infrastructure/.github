@@ -16,6 +16,6 @@ Welcome to **Multiverse** – the infrastructure, development, and deployment ba
 ---
 ## 📞 Contact
 - Infra Lead: `@redstonelayer` on Discord
-- Email: `infra@multiverse.agency`
+- Email: `infra@multiverse.com`
 - Status Page: [Multiverse Status](https://status.multiverse.com)
 ---
