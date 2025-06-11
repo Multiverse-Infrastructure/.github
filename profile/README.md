@@ -14,7 +14,7 @@ Welcome to **Multiverse** – the infrastructure, development, and deployment ba
 `multiverse-infra-core` | This repository contains CLI tools, Provisioning scripts, Ansible configs, and sensitive vault material (excluded from version control).
 
 ---
-## 📞 Contact
+## Contact
 - Infra Lead: `@redstonelayer` on Discord
 - Email: `infra@multiverse.com`
 - Status Page: [Multiverse Status](https://status.multiverse.com)
